@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=大陆陆%20·%20dalulu&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=一个不会写代码的文科生，用%20AI%20造出了自己每天在用的工具&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=F75C7E&center=true&vCenter=true&width=600&lines=创造力+×+AI+=+我的编程语言;每一个工具，都源于一个真实困惑;先自己用顺手，再教给+2万粉丝" width="600"/>
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&size=22&duration=3000&pause=800&color=F75C7E&center=true&vCenter=true&width=600&lines=%E5%88%9B%E9%80%A0%E5%8A%9B%20%C3%97%20AI%20%3D%20%E6%88%91%E7%9A%84%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80;%E6%AF%8F%E4%B8%80%E4%B8%AA%E5%B7%A5%E5%85%B7%EF%BC%8C%E9%83%BD%E6%BA%90%E4%BA%8E%E4%B8%80%E4%B8%AA%E7%9C%9F%E5%AE%9E%E5%9B%B0%E6%83%91;%E5%85%88%E8%87%AA%E5%B7%B1%E7%94%A8%E9%A1%BA%E6%89%8B%EF%BC%8C%E5%86%8D%E6%95%99%E7%BB%99%202%20%E4%B8%87%E7%B2%89%E4%B8%9D" width="600"/>
 
 <br>
 
