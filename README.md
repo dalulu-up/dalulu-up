@@ -6,8 +6,7 @@
 
 <br>
 
-[![抖音](https://img.shields.io/badge/抖音_@大陆陆爱复盘-2万%2B_粉丝-FF0050?style=for-the-badge&logo=tiktok&logoColor=white)](https://douyin.com)
-[![社群](https://img.shields.io/badge/知识星球-1500人_在学-FE2C55?style=for-the-badge)](https://t.zsxq.com)
+[![内容创作](https://img.shields.io/badge/抖音_·_小红书_·_视频号_·_公众号-全平台_2万%2B_粉丝-FF0050?style=for-the-badge&logo=tiktok&logoColor=white)](https://douyin.com)
 
 </div>
 
@@ -15,9 +14,9 @@
 
 ## 我是谁
 
-抖音创作者 **@大陆陆爱复盘**，专注 **AI × 知识管理 × 个人成长**。
+在抖音、小红书、视频号、公众号同步创作，账号 **@大陆陆爱复盘**，专注 **AI × 知识管理 × 个人成长**，全平台累计 2万+ 粉丝。
 
-2万+ 粉丝不是靠教理论来的——是因为我把自己的真实困惑、解决过程、踩过的坑，全部拍出来了。
+2万粉丝不是靠教理论来的——是因为我把自己的真实困惑、解决过程、踩过的坑，全部拍出来了。
 
 **我做的工具，都是先自己用，用顺手了，再讲给别人听。**
 
@@ -74,7 +73,7 @@
 |---|---|
 | 🎥 抖音 | [@大陆陆爱复盘](https://douyin.com) |
 | 📧 邮箱 | luzhang013@gmail.com |
-| 🌐 知识星球 | 1500人 AI × 知识管理学习社群 |
+| 📱 平台 | 抖音 / 小红书 / 视频号 / 公众号 @大陆陆爱复盘 |
 
 ---
 
