@@ -10,6 +10,7 @@
 [![小红书](https://img.shields.io/badge/小红书-@大陆陆爱复盘-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white)](https://xiaohongshu.com)
 [![公众号](https://img.shields.io/badge/公众号_·_视频号-@大陆陆爱复盘-07C160?style=for-the-badge&logo=wechat&logoColor=white)](#)
 [![粉丝](https://img.shields.io/badge/全平台-20000%2B_粉丝-8A2BE2?style=for-the-badge&logo=starship&logoColor=white)](#)
+[![播放](https://img.shields.io/badge/单条视频-最高_100万%2B_播放-FF6B00?style=for-the-badge&logo=youtubemusic&logoColor=white)](#)
 
 </div>
 
@@ -19,7 +20,7 @@
 
 我是文科出身，**一行代码都不会写**。
 
-但过去 5 个月里，我用 AI 做出了 4 个自己每天都在用的工具，并把整个「不懂技术的人如何用 AI 创造」的过程拍成视频——**全平台积累了 2 万+ 粉丝**。
+但过去 5 个月里，我用 AI 做出了一批自己每天都在用的工具，并把整个「不懂技术的人如何用 AI 创造」的过程拍成视频——**全平台积累了 2 万+ 粉丝，单条视频最高播放破 100 万**。
 
 > **在 AI 时代，编程能力不再是造物的门槛，创造力才是。**
 > 我不是最懂技术的人，但我可能是最会「用 AI 放大自己」的文科生之一。
