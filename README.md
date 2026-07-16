@@ -6,9 +6,8 @@
 
 <br>
 
-[![抖音](https://img.shields.io/badge/抖音-@大陆陆爱复盘-FF0050?style=for-the-badge&logo=tiktok&logoColor=white)](https://douyin.com)
-[![小红书](https://img.shields.io/badge/小红书-@大陆陆爱复盘-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white)](https://xiaohongshu.com)
-[![公众号](https://img.shields.io/badge/公众号_·_视频号-@大陆陆爱复盘-07C160?style=for-the-badge&logo=wechat&logoColor=white)](#)
+[![账号](https://img.shields.io/badge/抖音_·_小红书_·_视频号_·_公众号-@大陆陆爱复盘-FF0050?style=for-the-badge&logo=tiktok&logoColor=white)](https://douyin.com)
+
 [![粉丝](https://img.shields.io/badge/全平台-20000%2B_粉丝-8A2BE2?style=for-the-badge&logo=starship&logoColor=white)](#)
 [![播放](https://img.shields.io/badge/单条视频-最高_100万%2B_播放-FF6B00?style=for-the-badge&logo=youtubemusic&logoColor=white)](#)
 
